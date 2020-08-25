@@ -113,6 +113,6 @@ Apple Icon | Android Icon | Ubuntu Icon
 
 ## Videos
 
-You can even link to a video!
+You can even link to a video! Click on the image below to watch on Vimeo:
 
 [![Gerber ExtensiveHA Promo Video](/images/Gerber_ExtensiveHA.png)](https://vimeo.com/391046251)
