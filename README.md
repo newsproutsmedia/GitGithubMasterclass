@@ -121,7 +121,7 @@ You can even link to a video! Click on the image below to watch on Vimeo:
 
 Here's a developer's favorite section. To display code...
 
-To display code inline `<a class="your-code">Use the accent character</a>`.
+To display code inline `<a class="your-inline-code-block">Use the accent character</a>`.
 
 To display a code block, use three accents before and after:
 
