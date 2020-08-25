@@ -96,3 +96,15 @@ Adding | Links
 
 Links don't have to be displayed in a table.
 You can also add links [like this](https://www.linkedin.com/in/nbwalters/)
+
+## Images
+
+### You can add images from external sources
+
+Linux Icon | MacOS Icon | Windows Icon
+--- | --- | ---
+![](http://www.myiconfinder.com/uploads/iconsets/256-256-92f80b8362e1b0f99720f4eeb0f297f2.png) | ![](http://www.myiconfinder.com/uploads/iconsets/256-256-8b8258a1b7427a1deb3617406a1b4d01.png) | ![](http://www.myiconfinder.com/uploads/iconsets/256-256-e0ded59725330fc9e9d623d8325499b4.png)
+
+### Or you can add them from your own GitHub account
+
+Apple Icon | 
