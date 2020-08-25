@@ -103,8 +103,10 @@ You can also add links [like this](https://www.linkedin.com/in/nbwalters/)
 
 Linux Icon | MacOS Icon | Windows Icon
 --- | --- | ---
-![](http://www.myiconfinder.com/uploads/iconsets/256-256-92f80b8362e1b0f99720f4eeb0f297f2.png) | ![](http://www.myiconfinder.com/uploads/iconsets/256-256-8b8258a1b7427a1deb3617406a1b4d01.png) | ![](http://www.myiconfinder.com/uploads/iconsets/256-256-e0ded59725330fc9e9d623d8325499b4.png)
+![](http://www.myiconfinder.com/uploads/iconsets/256-256-75e6bbae408b4149f47496c4e60af903.png) | ![](http://www.myiconfinder.com/uploads/iconsets/256-256-8b8258a1b7427a1deb3617406a1b4d01.png) | ![](http://www.myiconfinder.com/uploads/iconsets/256-256-e0ded59725330fc9e9d623d8325499b4.png)
 
 ### Or you can add them from your own GitHub account
 
-Apple Icon | 
+Apple Icon | Android Icon | Ubuntu Icon
+--- | --- | ---
+![](/images/apple_logo.png) | ![](/images/android_logo.png) | ![](/images/ubuntu_logo.png)
