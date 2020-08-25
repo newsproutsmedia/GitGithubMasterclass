@@ -115,4 +115,4 @@ Apple Icon | Android Icon | Ubuntu Icon
 
 You can even link to a video!
 
-[![/images/Gerber_ExtensiveHA.png]()](https://vimeo.com/391046251)
+[![Gerber ExtensiveHA Promo Video](/images/Gerber_ExtensiveHA.png)](https://vimeo.com/391046251)
