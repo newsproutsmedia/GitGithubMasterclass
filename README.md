@@ -12,7 +12,7 @@ There's literally nothing to this code. I'm purely using it as a canvas to pract
 ##### Pound
 ###### Signs (up to six)
 
-## Lists
+## Lists and Text Formatting
 
 Like this unordered list:
 - As you just saw, you can add _italics_ by using _single_ underscore or asterisks.
@@ -69,5 +69,30 @@ You can make tasks through the simple use of brackets:
 - [ ] Here's a task
 - [X] This one is completed already
 
+## Tables
 
+Creating tables is easy
 
+Column Header | Another one
+--- | ---
+The previous line | needs at least three dashes
+for each | column
+
+Header 1                         | Header 2     | And here's a really long header
+-------------------------------- | ------------ | -------------------------------
+you can also                     | align things | in the code editor
+so it looks better while editing | but it's     | not necessary
+it makes no difference           | to the       | output
+
+You can align | columns | through use of colons
+:------------ | :-----: | --------------------:
+left aligned  | centered | right aligned
+
+## Links
+
+Adding | Links
+:--- | :---
+[My Site](http://newsproutsmedia.com) | [Another Site](http://www.natewalters.info)
+
+Links don't have to be displayed in a table.
+You can also add links [like this](https://www.linkedin.com/in/nbwalters/)
