@@ -109,13 +109,13 @@ Linux Icon | MacOS Icon | Windows Icon
 
 Apple Icon | Android Icon | Ubuntu Icon
 --- | --- | ---
-![](/images/apple_logo.png) | ![](/images/android_logo.png) | ![](/images/ubuntu_logo.png)
+![](images/apple_logo.png) | ![](images/android_logo.png) | ![](images/ubuntu_logo.png)
 
 ## Videos
 
 You can even link to a video! Click on the image below to watch on Vimeo:
 
-[![Gerber ExtensiveHA Promo Video](/images/Gerber_ExtensiveHA.png)](https://vimeo.com/391046251)
+[![Gerber ExtensiveHA Promo Video](images/Gerber_ExtensiveHA.png)](https://vimeo.com/391046251)
 
 ## Displaying Code
 
