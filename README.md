@@ -116,3 +116,42 @@ Apple Icon | Android Icon | Ubuntu Icon
 You can even link to a video! Click on the image below to watch on Vimeo:
 
 [![Gerber ExtensiveHA Promo Video](/images/Gerber_ExtensiveHA.png)](https://vimeo.com/391046251)
+
+## Displaying Code
+
+Here's a developer's favorite section. To display code...
+
+To display code inline `<a class="your-code">Use the accent character</a>`.
+
+To display a code block, use three accents before and after:
+
+``` html
+<html>
+   <head>
+      <title>Adding a code block</title>
+   </head>
+   <body>
+      <div class="container">
+         <h1>Adding code to a code block</h1>
+         <p>It's really easy to add code to a code block. Just use three accents before and after the block.</p>
+         <h3>Make it language-specific</h3>
+         <p>Add the tag for the language you want after the first accents. In this case "html".</p>
+      </div>
+   </body>
+</html>
+```
+
+Markdown allows code blocks in a variety of languages
+``` java
+
+class MarkdownDemo {
+
+   private String exampleText = "Here's an example using Java";
+
+   private void javaExample() {
+      System.out.println(exampleText);
+   }
+
+}
+
+```
